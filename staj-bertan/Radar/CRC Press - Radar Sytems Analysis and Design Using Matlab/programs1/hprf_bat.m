@@ -1,0 +1,3 @@
+hprf_reqi
+hprf_req (pt, freq, g, sigma, dt, ti, range, te, nf, ...
+   loss, prf, tau, dt1, dt2)

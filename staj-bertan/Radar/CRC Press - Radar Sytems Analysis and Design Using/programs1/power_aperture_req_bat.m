@@ -1,0 +1,3 @@
+power_aperture_eqi
+[p_a_p, aperture, pt, pav ] = power_aperture_req (snr, freq, tsc, ...
+   sigma, dt, range, te, nf, loss, az_angle, el_angle, g, rcs_delta1, rcs_delta2)

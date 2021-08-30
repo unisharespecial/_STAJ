@@ -1,0 +1,11 @@
+HMI(Human Machine Interface):pilotun baktigi ekrandaki yazilarin dogrulugunu test eder.
+HMI da kendi içinde ikiye ayrilir.DL(Display Logic) ve DE(Display Engine).DE,CDU ekranindaki bilgileri direkt
+olarak alir,yazar kontrol eder.
+
+FMS(Flight Management System):yapilan tüm uçus parametre hesaplari(yakit,hiz,sicaklik,zaman,mesafe) FMS tarafindan yapilir.
+
+ACS(Active Control System):Cihazlardan gelen bilgilerin islenmesi.
+
+MAP(Kayan Hatira Yazilimi):Uçagin konum ve yön bilgisine göre,görüntü olusturan yazilimdir.
+
+SYS:Uçaktaki merkezi kontrol bilgisayarlarin master/back-up yönetimini olusturmak.
