@@ -1,3 +1,0 @@
-lprf_reqi
-lprf_req(pt, freq, g, sigma, te, b, nf, loss, range,...
-   prf, np, rcs_delta, pt_percent, np1, np2)
